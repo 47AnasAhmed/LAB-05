@@ -1,0 +1,10 @@
+print("Anas Ahmed(18b-116-cs),CS-A")
+print("PROGRAM 3")
+
+n = eval(input("Enter the value to execute the while loop:"))
+sum = 0
+i = 1
+while i <= n:
+    sum = sum + i
+    i = i+1
+print("The sum is", sum) 
